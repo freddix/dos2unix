@@ -1,11 +1,11 @@
 Summary:	Text file format converter
 Name:		dos2unix
-Version:	6.0.5
+Version:	7.1
 Release:	1
 License:	BSD
 Group:		Applications/Text
 Source0:	http://www.xs4all.nl/~waterlan/dos2unix/%{name}-%{version}.tar.gz
-# Source0-md5:	e5b06dae8c11b6818fff9cf707b6490f
+# Source0-md5:	794c98ff9452a917c89d0a941c922b0d
 URL:		http://www.xs4all.nl/~waterlan/dos2unix.html
 BuildRequires:	gettext-devel
 Provides:	unix2dos
